@@ -8,9 +8,9 @@
   <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga-Rasquinho&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
   </a>
 </div>  
-  <div style="display : inline_block" border-radius:"30%"><br>
+  <div style="display : inline_block"><br>
     <img align="center" alt="Gabriel-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
     <img align="center" alt="Gabriel-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  </div>
+ </div>
  
                                                                                                                                                                                                                                                   
