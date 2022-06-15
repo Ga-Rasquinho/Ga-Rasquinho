@@ -1,13 +1,13 @@
 ![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
-### 😀 Seja Bem-vindo 😃
+<h1 align="center">🙂 Seja Bem-vindo 🙂</h1>
+<h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas</h3>
 
-- 📘 Graduando em Análise e Desenvolvimento de Sistemas
 - 🎈 Estudando Java e C.
 <div>
   <a href="https://github.com/Ga-Rasquinho">
   <img height="190em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Ga-Rasquinho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="190em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga-Rasquinho&layout=compact&langs_count=16&theme=midnight-purple"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ga-Rasquinho&&theme=midnight-purple" alt="rishavchanda" />
+ 
   </a>
 </div>  
   <div style="display : inline_block"><br>
