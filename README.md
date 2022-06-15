@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
-<h1 align="center">🙂 Seja Bem-vindo 🙂</h1>
+<h1 align="center">🧩 Seja Bem-vindo 🧩</h1>
 <h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas</h3>
 
 - 🎈 Estudando Java e C.
