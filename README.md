@@ -9,8 +9,8 @@
   </a>
 </div>  
   <div style="display : inline_block" border-radius:"30%"><br>
-    <img align="center" alt="Gabriel-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-    <img align="center" alt="Gabriel-Js" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img align="center" alt="Gabriel-Js" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+    <img align="center" alt="Gabriel-Js" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   </div>
  
                                                                                                                                                                                                                                                   
