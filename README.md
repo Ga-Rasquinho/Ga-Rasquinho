@@ -13,4 +13,5 @@
     <img align="center" alt="Gabriel-Js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  </div>
  
+   ![Snake animation](https://github.com/Ga-Rasquinho/rafaballerini/blob/output/github-contribution-grid-snake.svg)
                                                                                                                                                                                                                                                   
