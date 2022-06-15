@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)]
+![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
 ### 😀 Seja Bem-vindo 😃
 
 - 📘 Graduando em Análise e Desenvolvimento de Sistemas
