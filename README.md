@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=790b76116338dc9af52bc51007980dac9c4ed63f0694b0b5&rid=giphy.gif&ct=g)]
+[![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)]
 ### 😀 Seja Bem-vindo 😃
 
 - 📘 Graduando em Análise e Desenvolvimento de Sistemas
