@@ -34,7 +34,7 @@
   <img src="https://media.discordapp.net/attachments/190598124140625921/987020272248971336/eu.png?width=473&height=473" width="150">
   <img src="https://media.discordapp.net/attachments/190598124140625921/987021895369121832/eu2.png?width=473&height=473" width="150">
   </p>
-<br><br><br><br><br><br><br><br><br>
+<br>
 
 ##
 
