@@ -28,6 +28,6 @@
 <img height="350px" align="right" src="https://media2.giphy.com/media/tHyhmDd7tEB3Ehoeca/giphy.gif">
 
 <h3>🎓Formação e Objetivos</h3>
-  <p align="left">📚 Adquirindo conhecimentos em Java e C. Iniciei meus estudos na área de programação em 2015 com o curso técnico de Informática Para Internet e adquiri conhecimentos básicos em HTML, CSS, PHP E SQL. Atualmente curso Análise e Desenvolvimento de Sistemas e continuo em busca de mais conhecimento;</p>
+  <p align="left">📚 Iniciei meus estudos na área de programação em 2015 com o curso técnico de Informática Para Internet e adquiri conhecimentos básicos em HTML, CSS, PHP E SQL. Atualmente curso Análise e Desenvolvimento de Sistemas e continuo em busca de mais conhecimento;</p>
   
  <p align="left">🎇 Busco adquirir experiência no mercado de trabalho e pretendo iniciar minha carreira como Dev Junior;</p>
