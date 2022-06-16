@@ -29,5 +29,4 @@
 
 <h3>🎓Formação e Objetivos</h3>
   <p align="left">📚 Iniciei meus estudos na área de programação em 2015 com o curso técnico de Informática Para Internet e adquiri conhecimentos básicos em HTML, CSS, PHP E SQL. Atualmente curso Análise e Desenvolvimento de Sistemas e continuo em busca de mais conhecimento;</p>
-  
- <p align="left">🕹 Busco adquirir experiência no mercado de trabalho e pretendo iniciar minha carreira como Dev Junior;</p>
+
