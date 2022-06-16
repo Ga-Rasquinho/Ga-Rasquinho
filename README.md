@@ -33,9 +33,9 @@
   
   ##
   <p align="left">
-  <img src="https://media.discordapp.net/attachments/190598124140625921/987026115661037638/eu4.png?width=473&height=473" width="130">
-  <img src="https://media.discordapp.net/attachments/190598124140625921/840752266978000896/guih2.png?width=473&height=473" width="130">
-  <img src="https://media.discordapp.net/attachments/190598124140625921/987026390220165190/eu3.png?width=473&height=473" width="130">
+  <img src="https://media.discordapp.net/attachments/190598124140625921/987136881911279676/euNome.png?width=473&height=473" width="130">
+  <img src="https://media.discordapp.net/attachments/190598124140625921/987137860572426250/guiArt.png" width="130">
+  <img src="https://media.discordapp.net/attachments/190598124140625921/987138218057170944/eu2Nome.png?width=473&height=473" width="130">
   </p>
 <br>
 
