@@ -29,4 +29,9 @@
 
 <h3>🎓Formação e Objetivos</h3>
   <p align="left">📚 Iniciei meus estudos na área de programação em 2015 com o curso técnico de Informática Para Internet e adquiri conhecimentos básicos em HTML, CSS, PHP E SQL. Atualmente curso Análise e Desenvolvimento de Sistemas e continuo em busca de mais conhecimento;</p>
+<br><br><br><br><br><br><br><br><br>
 
+##
+
+<a href="https://www.instagram.com/gabriel.rasquinho/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.linkedin.com/in/gabriel-rasquinho-370073157/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
