@@ -30,6 +30,8 @@
 <h3>🎓Formação e Objetivos</h3>
   <p align="left">📚 Iniciei meus estudos na área de programação em 2015 com o curso técnico de Informática Para Internet e adquiri conhecimentos básicos em HTML, CSS, PHP E SQL. Atualmente curso Análise e Desenvolvimento de Sistemas e continuo em busca de mais conhecimento;</p>
   <p align="left">🖼 As vezes faço algumas ilustrações 🖼</p>
+  
+  ##
   <p align="left">
   <img src="https://media.discordapp.net/attachments/190598124140625921/987020272248971336/eu.png?width=473&height=473" width="130">
   <img src="https://media.discordapp.net/attachments/190598124140625921/840752266978000896/guih2.png?width=473&height=473" width="130">
