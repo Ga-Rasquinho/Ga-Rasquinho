@@ -15,12 +15,19 @@
 <p align="center">
   <img src="https://media1.giphy.com/media/3QWry30tXbGqBmOMNh/giphy.gif" width="300">
 </p>
-### 🖥️ Tecnologias e Ferramentas: 
+<h2>🖥️ Tecnologias e Ferramentas:</h2> 
+<p> 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img  alt="Gabriel-Js"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></code>
+<code><img  alt="Gabriel-Js"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+</p>
 <img height="350px" align="right" src="https://media2.giphy.com/media/tHyhmDd7tEB3Ehoeca/giphy.gif">
- <div style="display : inline_block"><br>
-    <img align="center" alt="Gabriel-Js"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-    <img align="center" alt="Gabriel-Js"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
- </div>
+
+<h3>🎓Formação e Objetivos</h3>
   <p align="left">📚 Adquirindo conhecimentos em Java e C. Iniciei meus estudos na área de programação em 2015 com o curso técnico de Informática Para Internet e adquiri conhecimentos básicos em HTML, CSS, PHP E SQL. Atualmente curso Análise e Desenvolvimento de Sistemas e continuo em busca de mais conhecimento;</p>
   
  <p align="left">🎇 Busco adquirir experiência no mercado de trabalho e pretendo iniciar minha carreira como Dev Junior</p>
