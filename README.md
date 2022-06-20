@@ -8,14 +8,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ga-Rasquinho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga-Rasquinho&layout=compact&langs_count=16&theme=midnight-purple"/>
   </a>
-</p>
- <!--
-   ![Snake animation](https://github.com/Ga-Rasquinho/Ga-Rasquinho/blob/output/github-contribution-grid-snake.svg)
-   -->                                                                                                                                                                                                                           
+</p>                                                                                                                                                                                                                       
 <p align="center">
   <img src="https://media1.giphy.com/media/3QWry30tXbGqBmOMNh/giphy.gif" width="300">
 </p>
+
 <h2>🖥️ Tecnologias e Ferramentas:</h2> 
+
 <p> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
