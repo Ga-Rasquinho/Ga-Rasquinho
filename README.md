@@ -32,9 +32,9 @@
   
   ##
   <p align="left">
-  <img src="https://media.discordapp.net/attachments/190598124140625921/987136881911279676/euNome.png?" width="130">
-  <img src="https://media.discordapp.net/attachments/190598124140625921/987137860572426250/guiArt.png" width="130">
-  <img src="https://media.discordapp.net/attachments/190598124140625921/987138218057170944/eu2Nome.png?width=473&height=473" width="130">
+  <img src="https://i.pinimg.com/736x/97/e3/39/97e3399589291f48131390fdfb20830b.jpg" width="130">
+  <img src="https://i.pinimg.com/736x/39/1e/bb/391ebbae8057d5d5121055de5c5c55e8.jpg" width="130">
+  <img src="blob:https://br.pinterest.com/67d2d854-aa55-4ff0-899b-6ddefef052a7" width="130">
   </p>
 <br>
 
