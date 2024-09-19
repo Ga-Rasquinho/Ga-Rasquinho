@@ -1,7 +1,7 @@
 ![MasterHead](header.png)
 <h3 align="center">🧩 Graduando em Análise e Desenvolvimento de Sistemas 🧩</h3>
 
-<h3>🎈 Estudando Java e C</h3><br>
+<h3>🎈 Atualmente trabalhando com Python, MongoDB e SQL 🎈</h3><br>
 <p align="center">
   <a href="https://github.com/Ga-Rasquinho">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ga-Rasquinho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
