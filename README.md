@@ -1,4 +1,4 @@
-![MasterHead](./header.png)
+![MasterHead](header.png)
 <h1 align="center">🧩 Seja Bem-vindo 🧩</h1>
 <h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas</h3>
 
