@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif)
+![MasterHead](https://www.bleepstatic.com/content/hl-images/2018/07/13/GitHub-logo.png)
 <h1 align="center">🧩 Seja Bem-vindo 🧩</h1>
 <h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas</h3>
 
