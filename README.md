@@ -1,16 +1,7 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-<h3 align="center">🧩 Graduando em Análise e Desenvolvimento de Sistemas 🧩</h3>
 
-<h3>🎈 Atualmente trabalhando com Python, MongoDB e SQL 🎈</h3><br>
-<p align="center">
-  <a href="https://github.com/Ga-Rasquinho">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ga-Rasquinho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ga-Rasquinho&layout=compact&langs_count=16&theme=midnight-purple"/>
-  </a>
-</p>                                                                                                                                                                                                                       
-<p align="center">
-  <img src="https://media1.giphy.com/media/3QWry30tXbGqBmOMNh/giphy.gif" width="300">
-</p>
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ga-Rasquinho&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ga-Rasquinho&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 <h2>🖥️ Tecnologias e Ferramentas:</h2> 
 
