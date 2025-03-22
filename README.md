@@ -1,6 +1,6 @@
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ga-Rasquinho&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ga-Rasquinho&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ga-Rasquinho&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ga-Rasquinho&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
 <h2>🖥️ Tecnologias e Ferramentas:</h2> 
@@ -15,10 +15,10 @@
 <code><img  alt="Gabriel-Js"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /></code>
 <code><img  alt="Gabriel-Js"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 </p>
-<img height="350px" align="right" src="https://media2.giphy.com/media/tHyhmDd7tEB3Ehoeca/giphy.gif">
+<img height="350px" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUzb3c3aHhpdTc2am5idm9ibWRzY3EzdWdxYmxmdGwxZXBybnRucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 
 <h3>🎓Formação</h3>
-  <p align="left">📚 Iniciei meus estudos na área de programação em 2015 com o curso técnico de Informática Para Internet e adquiri conhecimentos básicos em HTML, CSS, PHP E SQL. Atualmente curso Análise e Desenvolvimento de Sistemas e continuo em busca de mais conhecimento;</p>
+  <p align="left">📚 Iniciei meus estudos na área de programação em 2015 com o curso técnico de Informática Para Internet e adquiri conhecimentos intermediários em HTML, CSS, PHP E SQL. Atualmente estou finalizando a gradução de Análise e Desenvolvimento de Sistemas. Tenho experiência com Python, Pandas, MongoDB e SQL.</p>
 
 ##
 
