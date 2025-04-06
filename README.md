@@ -5,7 +5,6 @@
 <p> 
 <img src="https://skillicons.dev/icons?i=html" width="48">
 <img src="https://skillicons.dev/icons?i=css" width="48">
-<img src="https://skillicons.dev/icons?i=php" width="48">
 <img src="https://skillicons.dev/icons?i=javascript" width="48">
 <img src="https://skillicons.dev/icons?i=mongodb" width="48">
 <img src="https://skillicons.dev/icons?i=py" width="48"> 
