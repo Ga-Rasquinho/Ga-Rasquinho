@@ -19,7 +19,7 @@
 
 </p>
 
-<h3>🎓Formação</h3>
+<h3>✨ Sobre Mim</h3>
 
   <p align="left">📚 Iniciei meus estudos na área de programação em 2015 com o curso técnico de Informática Para Internet e adquiri conhecimentos em HTML, CSS, PHP E SQL. Estou finalizando a gradução de Análise e Desenvolvimento de Sistemas. Tenho experiência com Python, Pandas, MongoDB e SQL. Atualmente desenvolvo e otimizo scripts para data visualization, análise de dados e automações de processos.</p>
 
