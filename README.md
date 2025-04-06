@@ -1,7 +1,5 @@
+<img src="ezgif-45095bc130b17b.gif"/>
 
-
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ga-Rasquinho&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ga-Rasquinho&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
 <h2>🖥️ Tecnologias e Ferramentas:</h2> 
 
 <p> 
@@ -20,7 +18,9 @@
   <p align="left">📚 Iniciei meus estudos na área de programação em 2015 com o curso técnico de Informática Para Internet e adquiri conhecimentos em HTML, CSS, PHP E SQL. Atualmente estou finalizando a gradução de Análise e Desenvolvimento de Sistemas. Tenho experiência com Python, Pandas, MongoDB e SQL. </p>
 
 ##
-<img height="200px" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXUzb3c3aHhpdTc2am5idm9ibWRzY3EzdWdxYmxmdGwxZXBybnRucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ga-Rasquinho&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ga-Rasquinho&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 <a href="https://www.instagram.com/gabriel.rasquinho/" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
 <a href="https://www.linkedin.com/in/gabriel-rasquinho-370073157/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
