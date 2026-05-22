@@ -1,6 +1,6 @@
 <img src="ezgif-45095bc130b17b.gif"/>
 
-<h2>🖥️ Tecnologias e Ferramentas:</h2> 
+<h2>🖥️ Technologies and Tools:</h2> 
 
 <p> 
 <img src="https://skillicons.dev/icons?i=html" width="48">
@@ -19,9 +19,11 @@
 
 </p>
 
-<h3>✨ Sobre Mim</h3>
+<h3>✨ About me</h3>
 
-  <p align="left">📚 Iniciei meus estudos na área de programação em 2015 com o curso técnico de Informática Para Internet e adquiri conhecimentos em HTML, CSS, PHP E SQL. Concluindo a gradução em Análise e Desenvolvimento de Sistemas. Tenho experiência com Python, Pandas, MongoDB e SQL. Atualmente desenvolvo e otimizo scripts para data visualization, análise de dados e automações de processos.</p>
+  <p align="left">📚 I started my studies in programming in 2015 through a Technical Program in Internet Informatics, where I gained knowledge in HTML, CSS, PHP, and SQL. I am currently completing my degree in Systems Analysis and Development. I have experience with Python, Pandas, MongoDB, and SQL.
+
+Currently, I develop and optimize scripts for data visualization, data analysis, and process automation.</p>
 
 ##
 
