@@ -21,7 +21,7 @@
 
 <h3>✨ About me</h3>
 
-  <p align="left">📚 I started my studies in programming in 2015 through a Technical Program in Internet Informatics, where I gained knowledge in HTML, CSS, PHP, and SQL. I am currently completing my degree in Systems Analysis and Development. I have experience with Python, Pandas, MongoDB, and SQL.
+  <p align="left">📚 I started my studies in programming in 2015 through a Technical Program in Web Development, where I gained knowledge in HTML, CSS, PHP, and SQL. I hold a degree in Systems Analysis and Development. I have experience with Python, Pandas, MongoDB, and SQL.
 
 Currently, I develop and optimize scripts for data visualization, data analysis, and process automation.</p>
 
